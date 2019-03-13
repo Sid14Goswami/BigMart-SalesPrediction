@@ -1,8 +1,4 @@
 #
-# The Big Mart sale prediction competition from:
-#
-# http://datahack.analyticsvidhya.com/contest/practice-problem-bigmart-sales-prediction
-#
 # Initial analysis
 # and cleaning of the data
 #
